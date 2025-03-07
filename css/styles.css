@@ -451,7 +451,7 @@ button:focus {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-tab.jpg),;
+      url(../images/people-tab.jpg);
     margin: 0 auto;
     background-repeat: no-repeat;
     background-position: center center;
@@ -523,7 +523,6 @@ button:focus {
   .hero-button {
     margin: 48px auto;
   }
-}
 
 /* #endregion Desck */
 
@@ -1250,7 +1249,7 @@ button:focus {
   .footer-form-text {
     margin-top: 0;
     margin-left: 0;
-    text-align: left;
+    
   }
 
   .footer-form-container {
